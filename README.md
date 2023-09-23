@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://calligraphy-site.vercel.app/assets/img/footer.png"  />
+  <img height="150" src="https://calligraphy-site.vercel.app/assets/img/footer%20logo.png"  />
 </div>
 
 ###
@@ -21,12 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=itxxbilal.itxxbilal&left_text=1"  />
-</div>
-
-###
-
 <h1 align="center">Hey there , i'm Bilal👋</h1>
 
 ###
@@ -35,7 +29,7 @@
 
 ###
 
-<p align="left">I'm  Muhammad Bilal from Pakistan<br><br>- 🔭 I’m working as  Full-Stack Developer<br>- 📚 I'm currently learning Web Development<br>- ⚡ I'm Bilal, a passionate student learning web development. I specialize in front-end technologies like HTML, CSS, and JavaScript, and I'm also skilled in back-end development with languages like Python, PHP, Ruby, or JavaScript. My goal is to become a full-stack developer, creating engaging and functional websites</p>
+<p align="left">- 🔭 I’m working as  Full-Stack Developer<br>- 📚 I'm currently learning Web Development<br>- ⚡ I'm Bilal, a passionate student learning web development. I specialize in front-end technologies like HTML, CSS, and JavaScript, and I'm also skilled in back-end development with languages like Python, PHP, Ruby, or JavaScript. My goal is to become a full-stack developer, creating engaging and functional websites</p>
 
 ###
 
