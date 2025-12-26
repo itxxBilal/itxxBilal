@@ -21,35 +21,82 @@
 
 ---
 
-<h1 align="center">Hey there 👋, I'm Bilal!</h1>
-
-### 👨‍💻 About Me
-
-- 🔭 Currently working as a **Full-Stack Developer**  
-- 🌱 Passionate about learning and building in **Web Development**  
-- 💡 I specialize in front-end technologies like **React**, **Next.js**, and **JavaScript**, and also work on the back-end using **Node.js**, **Flask**, and **databases** like **MongoDB**, **MySQL**, and **Supabase**  
-- 🎯 My goal is to craft engaging, user-friendly, and scalable web applications
+# Hi, I'm Bilal 👋
+Full‑stack web developer — I build fast, reliable, and maintainable web applications using modern JavaScript and TypeScript stacks.
 
 ---
 
-### 🧰 My Tech Stack
+## 🚀 About Me
+I'm Bilal, a Full Stack Web Developer passionate about building delightful user experiences and robust backend systems. I enjoy taking projects from idea to production, focusing on clean code, performance, and developer experience.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
-</div>
+- 🔭 I build web apps with React, Next.js and TypeScript
+- 🌱 I work with Node/Express, Flask, and Django for APIs
+- 🗄️ Databases I use: MongoDB, MySQL, PostgreSQL, SQLite
+- ⚡ I also work with Supabase and Firebase for rapid prototyping and auth
 
 ---
 
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js, Next.js, TypeScript, JavaScript
+
+**Backend**
+- Express.js, Flask, Django
+
+**Databases**
+- MongoDB, MySQL, PostgreSQL, SQLite
+
+**Platforms & BaaS**
+- Supabase, Firebase
+
+---
+
+## ✨ What I do
+- Build responsive, SEO-friendly web apps with Next.js and React
+- Design and implement RESTful and GraphQL APIs
+- Integrate relational and NoSQL databases, optimize queries and schemas
+- Deploy and monitor production applications, iterate on performance
+
+---
+
+## 🔭 Featured Projects
+(Provide project names, short descriptions, tech used, and links below — I’ll add them after you share.)
+
+- Project A — Brief description, tech stack, link
+- Project B — Brief description, tech stack, link
+- Project C — Brief description, tech stack, link
+
+---
+
+## 📈 GitHub & Open Source
+I contribute to open-source projects and maintain a few repositories for reusable components, backend starters, and deployment templates. (Would you like me to include live GitHub stats and pinned repos?)
+
+---
+
+## 💬 Get in Touch
+Would love to collaborate or chat about opportunities.
+
+- Email: (your email)
+- LinkedIn: (your LinkedIn)
+- Twitter/X: (your handle)
+- Portfolio: (your website)
+
+---
+
+## 🎯 Goals & What I'm Learning
+- Deepening TypeScript expertise and type-driven architecture
+- Building more full-featured, end-to-end Next.js apps
+- Improving backend scaling and database optimization
+
+---
+
+## ⚡ Fun Fact
+I enjoy turning complex problems into simple, reliable solutions — and I'm always experimenting with a new small project.
+
+---
+
+Thanks for stopping by — feel free to explore my repos and reach out if you'd like to build something together!
 ### 📊 My GitHub Stats
 
 <div align="center">
