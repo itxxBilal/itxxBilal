@@ -5,17 +5,20 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bilal172/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.itx-bilal.site" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-itx--bilal.site-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="itx-bilal.site" />
   </a>
-  <a href="https://www.youtube.com/channel/UCAKLgzCfMqCFjhikjii8yzQ" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.linkedin.com/in/bilal172/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/itx_bilal172" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+
+  <a href="https://twitter.com/itx_bilal172" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/itx_bilal_172/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+
+  <a href="https://www.instagram.com/itx_bilal_172/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
@@ -60,13 +63,21 @@ I'm Bilal, a Full Stack Web Developer passionate about building delightful user 
 
 ---
 
-## 🔭 Featured Projects
-(Provide project names, short descriptions, tech used, and links below — I’ll add them after you share.)
+## 💡 Featured Projects
 
-- Project A — Brief description, tech stack, link
-- Project B — Brief description, tech stack, link
-- Project C — Brief description, tech stack, link
+### 1) Bloodflow
+Live: https://www.bloodflow.site/  
+Stack: React + Vite, TypeScript, Tailwind CSS, Supabase (Auth), PostgreSQL  
+A fast, responsive web app built with a modern front-end toolchain and Supabase-powered backend/auth and Postgres for reliable data storage.
 
+### 2) Hamdard Committee
+Live: http://hamdardcommittee.org/  
+Stack: Next.js, TypeScript, Tailwind CSS, Supabase Auth, MongoDB, Express.js, Node.js  
+A production Next.js site with server-driven APIs and Supabase for authentication and user management.
+
+### Personal Site
+Live: https://www.itx-bilal.site/  
+My personal portfolio and hub for projects, contact info, and blog/notes.
 ---
 
 ## 📈 GitHub & Open Source
@@ -74,13 +85,9 @@ I contribute to open-source projects and maintain a few repositories for reusabl
 
 ---
 
-## 💬 Get in Touch
-Would love to collaborate or chat about opportunities.
-
-- Email: (your email)
-- LinkedIn: (your LinkedIn)
-- Twitter/X: (your handle)
-- Portfolio: (your website)
+## 🤝 Let’s Work Together
+Open to collaboration, freelance opportunities, and full-time roles.  
+Contact: contact.bilaldev@gmail.com — or connect on [LinkedIn](https://www.linkedin.com/in/bilal172/).
 
 ---
 
@@ -93,22 +100,3 @@ Would love to collaborate or chat about opportunities.
 
 ## ⚡ Fun Fact
 I enjoy turning complex problems into simple, reliable solutions — and I'm always experimenting with a new small project.
-
----
-
-Thanks for stopping by — feel free to explore my repos and reach out if you'd like to build something together!
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=itxxbilal&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak Stats" />
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/itxxbilal/itxxbilal/output/snake.svg" alt="Snake animation" />
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/itxxbilal/count.svg?" alt="Visitor Count" />
-</div>
